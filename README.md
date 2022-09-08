@@ -1,15 +1,4 @@
-<style type="text/css">
-		/*задаём общие параметры для всей страницы*/
-		body {
-		  text-align: center;
-		  margin: 10;
-		  font-family: Verdana, Arial, sans-serif;
-		  font-size: 40px;
-		}
-		
-	</style>
-
-<b>Новостройка в Волынской области</b>
+<big><b>Новостройка в Волынской области</b></big>
 
 ![ЖК1 копия](https://user-images.githubusercontent.com/113106509/189108913-cd4c75ee-3bba-403c-8c2c-6b0c39b52fa4.png)
 ![ЖК2 копия](https://user-images.githubusercontent.com/113106509/189108953-b6a13677-e5dd-4836-9616-0535b6e23dd1.png)
