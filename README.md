@@ -1,4 +1,4 @@
-<h1><b>Building houses</b></h1>
+<h1><b>Estate</b></h1>
 
 ![ЖК1 копия](https://user-images.githubusercontent.com/113106509/189108913-cd4c75ee-3bba-403c-8c2c-6b0c39b52fa4.png)
 ![ЖК2 копия](https://user-images.githubusercontent.com/113106509/189108953-b6a13677-e5dd-4836-9616-0535b6e23dd1.png)
