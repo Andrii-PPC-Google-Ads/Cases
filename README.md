@@ -50,7 +50,7 @@ It makes no sense to touch it (it is already taken as a load).
 4. Remarketing.
 
 The goal was to increase sales, which was already achieved in August 2021 and to boost sales even more before the cold weather hits in October 2021.
-After the end of active hostilities in Kiev and the region, gradually reached the same level of sales. By August 2022, sales reached last year's level.
+After the end of active hostilities in Kyiv and the region, gradually reached the same level of sales. By August 2022, sales reached last year's level.
 
 <h1><b>Lawyer Services</b></h1>
 
