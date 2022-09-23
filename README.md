@@ -1,93 +1,80 @@
-<h1><b>Новостройка в Волынской области</b></h1>
+<h1><b>Building houses</b></h1>
 
 ![ЖК1 копия](https://user-images.githubusercontent.com/113106509/189108913-cd4c75ee-3bba-403c-8c2c-6b0c39b52fa4.png)
 ![ЖК2 копия](https://user-images.githubusercontent.com/113106509/189108953-b6a13677-e5dd-4836-9616-0535b6e23dd1.png)
 
-Запущены поисковые РК:
-1. Брендовая
-2. По конкурентам (ЖК поблизости, в Киеве, Львове)
-3. Общие запросы (купить квартиру)
-За конверсию считал отправку формы для консультации. Получили 362
-лида по цене 45 грн (аккаунт был в рублях).
-Дополнительно запущена КМС по аудиториям «заинтересованных
-покупателей». Получили 221 лид по цене 70 грн.
+Launched:
+1. Branded
+2. By competitors (housing estate nearby, in Kiev, Lviv)
+3. General queries (to buy an apartment).
+Sending of the form for consultation was considered as conversion. Received 362 lead at the price of 45 UAH.
+Additionally launched the GDN on auditoriums "interested buyers. Received 221 leads at a price of 70 UAH.
 
-<h1><b>Интернет-магазин компьютерных комплектующих</b></h1>
+<h1><b>Online store of computer parts</b></h1>
 
 ![Компьютерные комплектующие копия](https://user-images.githubusercontent.com/113106509/189109180-153a7dd1-9406-4556-a010-b583d6be3f36.png)
 
-После месяца работы торговой РК (запускалась для формирования
-аудитории), перевел аккаунт на Перформанс макс.
-Аудитория была выбрана «Уже совершали покупки» и «Не закончили
-оформление заказа». Получили 321 конверсию (покупка) по цене 96 грн.
-После этого была запущена торговая РК на самые популярные товары. В
-дальнейшем, популярные товары буду крутить в Перформанс макс.
+After a month of work Google Shopping (started for the formation of
+audience), I switched the account to Performance Max.
+The audience was selected as "Already Shopping" and "Not Finished
+Checkout". Received 321 lead (purchase) at a price of 96 UAH.
+After that, I launched a Google Shopping for the most popular products. In the future, popular products will be switched to Performance Max.
 
-<h1><b>Лесопилка (пиломатериалы)</b></h1>
+<h1><b>Sawmill</b></h1>
 
 ![Пиломатериалы копия](https://user-images.githubusercontent.com/113106509/189109290-a279dcb6-77c4-4257-9de0-235245b89f51.png)
 
-Запущены поисковые РК:
-1. Брендовая
-2. Конкуренты
-3. Основные поисковые запросы
-4. Торговая РК на категорию «Дрова»
-5. Ремаркетинг
+Launched:
+1. Branded
+2. Competitors
+3. General queries
+4. Remarketing
+5. Google Shopping
 
-Очень большая конкуренция.
-За все время работы (запускались с нуля), получили 963 конверсии
-(звонок, заказ на сайте) по цене 90 грн. В мае 2022 года, вышли на 12
-заказов в день. Сейчас конкуренция стала еще больше. Возможно буду
-запускать шопинг, но клиент пока думает. Активно идет борьба с
-конкурентами, которые копируют наш сайт и используют наш бренд.
-Гугл уже выкинул из выдачи двух. Осталось добить последнего.
+Very big competition.
+For all the time of work (started from scratch), got 963 conversions
+(call, order on the site) at a price of 90 UAH. In May 2022, came to 12 orders per day. Now the competition has become even more . There is an active struggle with competitors who copy our site and use our brand.
+Google has already kicked out two of them. It remains to finish the last one.
 
-<h1><b>Строительные материалы</b></h1>
+<h1><b>Building materials</b></h1>
 
 ![Строительные материалы копия](https://user-images.githubusercontent.com/113106509/189109447-7bb3a792-46a4-45c7-862a-4eb81854829f.png)
 
-Ниша сезонная. К зиме спрос обычно падает. Конкуренция чрезвычайно
-высока.
-Что запущено:
-1. Торговая РК на кирпичи, шлакоблоки, плитку, бетон. Сыпучку нет
-смысла трогать (ее и так берут в нагрузку).
-2. Поисковая РК на общие запросы (купить кирпич и т.д.).
-3. Брендовая поисковая.
-4. Ремаркетинг.
+The niche is seasonal. By winter, demand tends to drop. The competition is extremely high.
 
-Задача стояла увеличить уровень продаж, чего удалось достичь уже в
-августе 2021 года и еще больше поднять продажи перед наступлением
-холодов в октябре 2021 года.
-После окончания активных боевых действий в Киеве и области,
-постепенно вышли на тот же уровень продаж. К августу 2022 года,
-продажи вышли на уровень прошлого года.
+Launched:
+1. Google Shopping on bricks, cinder blocks, tiles, concrete. There's no point in touching the bulk material.
+It makes no sense to touch it (it is already taken as a load).
+2. General queries.
+3. Branded.
+4. Remarketing.
 
-<h1><b>Услуги юриста</b></h1>
+The goal was to increase sales, which was already achieved in August 2021 and to boost sales even more before the cold weather hits in October 2021.
+After the end of active hostilities in Kiev and the region, gradually reached the same level of sales. By August 2022, sales reached last year's level.
+
+<h1><b>Lawyer Services</b></h1>
 
 ![Услуги юриста копия](https://user-images.githubusercontent.com/113106509/189109576-0e1cd06d-2933-4d20-9b2f-592cd49e5c43.png)
 
-Запущены:
-1. Поисковые РК
-2. Ремаркетинг
-3. Дискавери
+Launched:
+1. Search Ads
+2. Remarketing
+3. Discovery
 
-За конверсию, считал звонок и отправку формы. Основную долю заявок
-дала Дискавери кампания. Все остальные лиды пришли с поисковой и
-ремаркетинга.
-Хоть ниша и мало конкурентная, пользователи не очень доверяют
-юристам и больше ищут информацию на сторонних сайтах. Составил список сайтов для размещения и добавил в РК (пошло еще лучше).
+The lead is the call and sending of the form. The bulk of the bids was from the Discovery campaign. All other leads came from search ads and remarketing.
+Even though the niche is marginally competitive, users don't really trust lawyers and look for more information on third-party sites. I made a list of sites for placement and added them to ads (which give more leads).
 
-<h1><b>Канцтовары</b></h1>
+<h1><b>Stationery</b></h1>
 
 ![Канцтовары копия](https://user-images.githubusercontent.com/113106509/189109803-ba43980c-34bc-4415-8edf-7053b03e0abd.png)
 
-Клиент – небольшой интернет-магазин канцелярии. Конкуренция
-высокая.
-Запущено:
-1. Торговая РК на самые популярные товары в нише (бумага,
-блокноты, ручки и т.д.).
-2. Поисковая РК на общие запросы (купить бумагу).
-3. Поисковая брендовая.
-4. Ремаркетинг (кто уже купил, не завершившие покупку, смотрели
-определенный товар).
-5. С нового года планировали запускать Дискавери.
+The client is a small stationery store. Competition
+high.
+Launched:
+1. Google Shopping on the most popular products in the niche (paper,
+notepads, pens, etc.).
+2. Search ads for general queries (buy paper).
+3. Branding.
+4. Remarketing (who have already bought, not completed the purchase, looked
+a certain product).
+5. From the new year planned to launch Discovery.
