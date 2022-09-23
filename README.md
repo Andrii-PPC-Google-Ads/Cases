@@ -8,7 +8,7 @@ Launched:
 2. By competitors (housing estate nearby, in Kiev, Lviv)
 3. General queries (to buy an apartment).
 Sending of the form for consultation was considered as conversion. Received 362 lead at the price of 45 UAH.
-Additionally launched the GDN on auditoriums "interested buyers. Received 221 leads at a price of 70 UAH.
+Additionally launched the GDN on auditoriums "interested buyers". Received 221 leads at a price of 70 UAH.
 
 <h1><b>Online store of computer parts</b></h1>
 
