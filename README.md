@@ -18,6 +18,10 @@
 
 <img width="1425" alt="Автозапчасті" src="https://github.com/user-attachments/assets/0ce004db-1d73-420e-8c1d-89f34a14e54f" />
 
+<h1><b>Товари для творчості</b></h1>
+
+<img width="1418" alt="творчество" src="https://github.com/user-attachments/assets/27457022-3ff2-4eed-87a9-5662d7c91a75" />
+
 <h1><b>Канцтовари</b></h1>
 
 ![Канцтовары копия](https://user-images.githubusercontent.com/113106509/189109803-ba43980c-34bc-4415-8edf-7053b03e0abd.png)
@@ -42,9 +46,3 @@
 
 ![ЖК1 копия](https://user-images.githubusercontent.com/113106509/189108913-cd4c75ee-3bba-403c-8c2c-6b0c39b52fa4.png)
 ![ЖК2 копия](https://user-images.githubusercontent.com/113106509/189108953-b6a13677-e5dd-4836-9616-0535b6e23dd1.png)
-
-<h1><b>Товари для творчості</b></h1>
-
-<img width="1418" alt="творчество" src="https://github.com/user-attachments/assets/27457022-3ff2-4eed-87a9-5662d7c91a75" />
-
-
