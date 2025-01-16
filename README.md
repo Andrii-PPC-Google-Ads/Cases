@@ -26,7 +26,7 @@
 
 ![Канцтовары копия](https://user-images.githubusercontent.com/113106509/189109803-ba43980c-34bc-4415-8edf-7053b03e0abd.png)
 
-<h1><b>Юрист</b></h1>
+//<h1><b>Юрист</b></h1>
 
 ![Услуги юриста копия](https://user-images.githubusercontent.com/113106509/189109576-0e1cd06d-2933-4d20-9b2f-592cd49e5c43.png)
 
