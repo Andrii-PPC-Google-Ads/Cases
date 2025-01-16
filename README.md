@@ -1,3 +1,7 @@
+<h1><b>Адвокати</b></h1>
+
+<img width="1420" alt="адвокати" src="https://github.com/user-attachments/assets/4a4f674b-6fdf-4522-bafb-6d955a15707f" />
+
 <h1><b>Автозапчастини</b></h1>
 
 <img width="1425" alt="Автозапчасті" src="https://github.com/user-attachments/assets/0ce004db-1d73-420e-8c1d-89f34a14e54f" />
@@ -6,7 +10,7 @@
 
 ![Канцтовары копия](https://user-images.githubusercontent.com/113106509/189109803-ba43980c-34bc-4415-8edf-7053b03e0abd.png)
 
-<h1><b>Адвокати</b></h1>
+<h1><b>Юрист</b></h1>
 
 ![Услуги юриста копия](https://user-images.githubusercontent.com/113106509/189109576-0e1cd06d-2933-4d20-9b2f-592cd49e5c43.png)
 
