@@ -26,10 +26,6 @@
 
 ![Канцтовары копия](https://user-images.githubusercontent.com/113106509/189109803-ba43980c-34bc-4415-8edf-7053b03e0abd.png)
 
-//<h1><b>Юрист</b></h1>
-
-![Услуги юриста копия](https://user-images.githubusercontent.com/113106509/189109576-0e1cd06d-2933-4d20-9b2f-592cd49e5c43.png)
-
 <h1><b>Будивельні матеріали</b></h1>
 
 ![Строительные материалы копия](https://user-images.githubusercontent.com/113106509/189109447-7bb3a792-46a4-45c7-862a-4eb81854829f.png)
