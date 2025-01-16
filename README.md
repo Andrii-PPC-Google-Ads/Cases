@@ -6,13 +6,13 @@
 
 <img width="1424" alt="піцца" src="https://github.com/user-attachments/assets/abd88318-f6bd-463c-b26f-923bdbdf09a1" />
 
-<h1><b>Товари для спорту</b></h1>
-
-<img width="1423" alt="спортівние костюми" src="https://github.com/user-attachments/assets/f846e846-9f8d-45a8-8031-df3d799e70d1" />
-
 <h1><b>Адвокати</b></h1>
 
 <img width="1420" alt="адвокати" src="https://github.com/user-attachments/assets/4a4f674b-6fdf-4522-bafb-6d955a15707f" />
+
+<h1><b>Товари для спорту</b></h1>
+
+<img width="1423" alt="спортівние костюми" src="https://github.com/user-attachments/assets/f846e846-9f8d-45a8-8031-df3d799e70d1" />
 
 <h1><b>Автозапчастини</b></h1>
 
