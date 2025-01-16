@@ -6,6 +6,10 @@
 
 <img width="1424" alt="піцца" src="https://github.com/user-attachments/assets/abd88318-f6bd-463c-b26f-923bdbdf09a1" />
 
+<h1><b>Суші</b></h1>
+
+<img width="1426" alt="sushi" src="https://github.com/user-attachments/assets/6dfd890a-6565-4b94-880d-b14acc260c5b" />
+
 <h1><b>Адвокати</b></h1>
 
 <img width="1420" alt="адвокати" src="https://github.com/user-attachments/assets/4a4f674b-6fdf-4522-bafb-6d955a15707f" />
